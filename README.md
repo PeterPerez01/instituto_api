@@ -8,7 +8,6 @@ Desarrollo de API mediante Framework FastApi en Python para pruebas de Backend d
 - Soporte para validación automática de datos de entrada y salida.
 - Documentación interactiva generada automáticamente con Swagger UI.
 - Implementación de CRUD (Crear, Leer, Actualizar, Eliminar) para diversos recursos.
-- Autenticación y autorización de usuarios.
 - Configuración sencilla y flexible.
 
 ## Requisitos previos
@@ -17,6 +16,8 @@ Antes de instalar y ejecutar esta API, asegúrate de tener instaladas las siguie
 
 - Python (versión 3.7 o superior)
 - Pip (gestor de paquetes de Python)
+
+`https://www.python.org/downloads/`
 
 ## Instalación
 
