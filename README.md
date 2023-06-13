@@ -53,7 +53,7 @@ Antes de instalar y ejecutar esta API, asegúrate de tener instaladas las siguie
 
 6. Ejecuta la API:
 Entra en la carpeta main y abre una consola para ejecutar el comando
-<pre><code>instituto_api>main> uvicorn api:app --reload </code></pre>
+<pre><code> uvicorn api:app --reload </code></pre>
 
 
 ¡Listo! La API ahora está en funcionamiento en tu máquina local.
